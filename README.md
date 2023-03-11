@@ -7,5 +7,6 @@ This is a simple yet effective program to remind you to drink water during your 
 3. Open Command Prompt.
 4. Navigate to the directory using `cd`.
 5. Type `python main.py` in the command prompt.
+6. Close the cmd afterwards, you will still be reminded to drink water.
 
 After every 30 minutes you will get reminder to drink water along with some information about why you should drink water.
