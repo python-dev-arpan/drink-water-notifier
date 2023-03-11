@@ -2,6 +2,13 @@ import time
 from threading import Thread
 from win10toast import ToastNotifier
 from playsound import playsound
+import shutil
+
+
+shutil.copy(
+    "main.py",
+    r"C:\Users\Karmakar's PC\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\main.pyw",
+)
 
 notification = ToastNotifier()
 
