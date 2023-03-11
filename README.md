@@ -1,4 +1,4 @@
-# drink_water_notifier
+# drink-water-notifier
 This is a simple yet effective program to remind you to drink water during your 9-5 job!
 
 ## How to use
